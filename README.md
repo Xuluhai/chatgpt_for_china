@@ -1,5 +1,5 @@
 
-## 这款工具是什么？****
+## 这款工具是什么？
 
 ChatGPT是一款基于OpenAI的先进GPT-4架构开发的大型语言模型，具有强大的自然语言理解和生成能力。它能够广泛应用于几乎所有领域。
 
@@ -11,6 +11,16 @@ ChatGPT是一款基于OpenAI的先进GPT-4架构开发的大型语言模型，�
 1. 连接openai的速度慢。
 2. 很难注册，因为需要国外的手机号。
 3. 网络不稳定，经常断线，或者被封号。
+
+### 应用界面
+
+支持手机端和PC端，无需手机号注册，微信扫码即可登录使用
+
+访问地址：[https://chat.ledyai.com/web/](https://chat.ledyai.com/web/)
+
+![pc_ui](https://github.com/Xuluhai/chatgpt_for_china/blob/main/Img/pc_ui.png)
+
+![phone_ui](https://github.com/Xuluhai/chatgpt_for_china/blob/main/Img/phone_ui.png)
 
 **Ai可以做什么？**
 
@@ -100,16 +110,8 @@ ChatGPT是一款基于OpenAI的先进GPT-4架构开发的大型语言模型，�
 
 29.其他更多无线可能等你来发现。
 
-### 应用界面
 
-支持手机端和PC端，无需手机号注册，微信扫码即可登录使用
-
-访问地址：[https://chat.ledyai.com/web/](https://chat.ledyai.com/web/)
-
-![Untitled](gitbub%E9%A1%B5%E9%9D%A2%E5%86%85%E5%AE%B9%2092ddbe6c33154b6f826b6f933a308fe5/Untitled.png)
-
-![Untitled](gitbub%E9%A1%B5%E9%9D%A2%E5%86%85%E5%AE%B9%2092ddbe6c33154b6f826b6f933a308fe5/Untitled%201.png)
 
 ### 使用交流群
 
-![Untitled](gitbub%E9%A1%B5%E9%9D%A2%E5%86%85%E5%AE%B9%2092ddbe6c33154b6f826b6f933a308fe5/Untitled%202.png)
+![contact](https://github.com/Xuluhai/chatgpt_for_china/blob/main/Img/contact.png)
